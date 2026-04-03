@@ -1,0 +1,16 @@
+# Jekyll Blog Configuration
+
+# Here you can configure your Jekyll site.
+# See the official Jekyll documentation for more options: https://jekyllrb.com/docs/configuration/
+
+title: My Jekyll Blog
+email: your-email@example.com
+description: >
+  A blog about various topics.
+baseurl: ""
+url: "http://yourdomain.com"
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
